@@ -6,7 +6,7 @@ import Image from 'next/image';
 import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
-  title: 'Build the Future of Tech',
+  title: 'Best SWAP Test',
   description:
     'Transform your ideas into powerful digital solutions with our cutting-edge development platform.',
   primaryCTA: 'Start Building',
